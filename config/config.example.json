@@ -1,0 +1,13 @@
+{
+    "accounts": {
+        "free": {
+            "email": "",
+            "password": ""
+        },
+    
+        "trial": {
+            "email": "",
+            "password": ""
+        }
+    }
+}

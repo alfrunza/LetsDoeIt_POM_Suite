@@ -1,0 +1,22 @@
+{
+  "name": "pom_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^104.0.0",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.3.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
